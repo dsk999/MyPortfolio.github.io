@@ -375,7 +375,7 @@ img{
 @media screen and (max-width: 515px){
   .home__img img{
     width: 200px;
-    bottom: 15%;
+    bottom: 0%;
   }
 }
 /* ===== MEDIA QUERIES=====*/
