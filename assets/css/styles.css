@@ -373,9 +373,17 @@ img{
   margin: 0 var(--mb-2)
 }
 @media screen and (max-width: 515px){
+   .home__data{
+    position: absolute;
+    top: 10%;
+  }
   .home__img img{
-    width: 170px;
-    bottom: 0%;
+    width: 200px;
+    bottom: 15%;
+  }
+  .home__social{
+    position: absolute;
+    top: 50%;
   }
 }
 /* ===== MEDIA QUERIES=====*/
